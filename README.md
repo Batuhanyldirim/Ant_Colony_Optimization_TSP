@@ -5,11 +5,12 @@
 This is the graph of populations average performance over generations;
 
 
-foto
+![image](https://user-images.githubusercontent.com/41572446/122047889-f0b9aa00-cde0-11eb-9008-3bd49bafa4b2.png)
+
 
 This is the graph of populations best individual’s performance over generations;
 
-![image](https://user-images.githubusercontent.com/41572446/121981147-71e75180-cd8d-11eb-98b7-5d32dc8afa9e.png)
+![image](https://user-images.githubusercontent.com/41572446/122047938-fe6f2f80-cde0-11eb-8131-55cccf6828b7.png)
 
 
 
